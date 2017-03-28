@@ -1,2 +1,2 @@
 # css
-Roomboss css repository.
+Roomboss CSS repository.
