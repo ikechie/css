@@ -1,0 +1,12 @@
+/* #5357: bpay1 shown within iframe */
+
+/* Avoid top level padding. */
+.ui-content {
+	padding: 0;
+}
+
+/* Avoid header, vendor description. */
+#base_page\:base_header, #base_page\:descPanel {
+	visibility: hidden;
+	height: 0;
+}
