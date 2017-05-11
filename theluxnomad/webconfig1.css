@@ -8,6 +8,10 @@
 	font-family: "Libre Baskerville",serif;
 }
 
+#base_page\:messages {
+	color: #FFF;
+}
+
 .ui-header.ui-bar-inherit {
 	background-color: #625956;
    	border-width: 0;
