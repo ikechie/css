@@ -27,7 +27,7 @@
 }
 
 #base_page\:gform {
-	display: hidden;
+	display: none;
 }
 
 .ui-collapsible-heading-toggle, .ui-panel-m-titlebar {
