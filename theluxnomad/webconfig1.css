@@ -26,11 +26,8 @@
 	font-size: 24px !important;
 }
 
-#base_page\:gform\:gbutt {
-	background-color: #ff9a00;
-	border: 2px solid #fff;
-    	font-weight: bold;
-	opacity: 0.5;
+#base_page\:gform {
+	display: hidden;
 }
 
 .ui-collapsible-heading-toggle, .ui-panel-m-titlebar {
