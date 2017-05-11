@@ -2,9 +2,13 @@
 	background:
 		url('https://d2yi10w58nlf3f.cloudfront.net/uploads/configuration_photo/s3_image/556d10c930d7127b9f00b8f5/image3.jpg')
 		no-repeat;
-	background-position: 0 170px;
+	background-position: 0 150px;
 	background-size: contain;
 	text-shadow: none;
+}
+
+#base_page:messages {
+	color: #FFF;
 }
 
 .ui-header.ui-bar-inherit {
