@@ -1,0 +1,34 @@
+#base_page {
+	background:
+		url('https://d2yi10w58nlf3f.cloudfront.net/uploads/configuration_photo/s3_image/556d0f8c30d7127b9d00b681/DREAM_20A_20LITTLE._20TRAVEL_20A_20LOT.jpg')
+		no-repeat;
+	background-position: 0 130px;
+}
+
+.ui-header.ui-bar-inherit {
+	background: #625956
+		url("https://theluxenomad.com/static/assets/logo.png");
+	background-position: 0 -50px;
+	padding-top: 50px;
+	padding-bottom: 40px;
+}
+
+.ui-title {
+	color: #fff;
+	text-shadow: none;
+	text-transform: uppercase;
+	font-size: 24px !important;
+}
+
+.ui-collapsible-heading-toggle, .ui-panel-m-titlebar {
+	background-color: #00547b !important;
+	color: #ffffff !important;
+	text-shadow: none !important;
+}
+
+div.ui-footer.ui-bar-inherit {
+	background: transparent;
+	border: none;
+	color: #ddd;
+	text-shadow: none;
+}
