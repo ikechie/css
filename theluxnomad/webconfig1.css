@@ -2,8 +2,9 @@
 	background:
 		url('https://d2yi10w58nlf3f.cloudfront.net/uploads/configuration_photo/s3_image/556d10c930d7127b9f00b8f5/image3.jpg')
 		no-repeat;
-	background-position: 0 200px;
+	background-position: 0 170px;
 	background-size: contain;
+	text-shadow: none;
 }
 
 .ui-header.ui-bar-inherit {
@@ -15,7 +16,7 @@
 	background: #625956
 		url("https://theluxenomad.com/static/assets/logo.png")
 		no-repeat;
-	background-position: 20px 40px;
+	background-position: 20px 20px;
 }
 
 .ui-title {
