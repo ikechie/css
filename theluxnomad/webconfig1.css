@@ -1,8 +1,8 @@
 #base_page {
 	background:
-		url('https://d2yi10w58nlf3f.cloudfront.net/uploads/configuration_photo/s3_image/556d0d9c30d7127b9f00b8d0/YOU_20HAD_20ME_20AT_20VACATION.jpg')
+		url('https://d2yi10w58nlf3f.cloudfront.net/uploads/configuration_photo/s3_image/556d0f8c30d7127b9d00b681/DREAM_20A_20LITTLE._20TRAVEL_20A_20LOT.jpg')
 		no-repeat;
-	background-position: 0 100px;
+	background-position: 0 0px;
 	background-size: contain;
 	text-shadow: none;
 }
@@ -25,6 +25,11 @@
 	text-transform: uppercase;
 	font-size: 24px !important;
 }
+
+#base_page:gform:gbutt {
+	
+}
+
 
 .ui-collapsible-heading-toggle, .ui-panel-m-titlebar {
 	background-color: #625956 !important;
