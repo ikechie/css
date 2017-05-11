@@ -35,14 +35,8 @@
 	background-color: #ff9a00;
 	border: 2px solid #fff;
     	font-weight: bold;
-	color: #fff;
 	opacity: 0.5;
 }
-
-#base_page\:gform div.ui-btn.ui-input-btn.ui-corner-all.ui-shadow {
-	color: #fff;
-}
-
 
 .ui-collapsible-heading-toggle, .ui-panel-m-titlebar {
 	background-color: #625956 !important;
