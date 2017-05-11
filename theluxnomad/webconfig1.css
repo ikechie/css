@@ -39,6 +39,10 @@
 	opacity: 1;
 }
 
+#base_page\:gform div.ui-btn.ui-input-btn.ui-corner-all.ui-shadow {
+	color: #fff;
+}
+
 
 .ui-collapsible-heading-toggle, .ui-panel-m-titlebar {
 	background-color: #625956 !important;
