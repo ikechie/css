@@ -1,0 +1,65 @@
+.ui-header.ui-bar-inherit {
+	background-color: White;
+	border: none;
+}
+
+.ui-content {
+	background-color: White;	
+}
+
+.ui-page.ui-page-theme-a.ui-page-active{
+	background-color: White;	
+}
+
+.ui-title{	
+	outline: none;
+	font-family: "Lato",sans-serif;
+    font-size: 42px!important;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: -0.035em;    
+    color: rgb(51,51,51);
+    text-decoration: none;
+    border: none;    
+}
+
+.ui-page-theme-a {
+  background: white;
+  color: #666;
+}
+
+.ui-corner-all {
+  border-radius: 0;
+}
+
+.ui-select .ui-btn select {
+  border-radius: 0;
+}
+
+.rbn_ven_descr {
+  font-size: 14px;
+  line-height: 22px;
+}
+
+
+
+.ui-panel-m-titlebar.ui-bar{
+	background-color: rgb(183, 158, 87);
+	color: white;
+	text-shadow: none;	
+}
+
+.ui-grid-a{
+	background-color:white;
+	color: white;
+}
+.ui-header.ui-bar-inherit, div.ui-footer.ui-bar-inherit {
+  background-color: white;
+  border: none;
+  color: rgb(51, 51, 51);
+  text-shadow: none;
+  font-size: 1rem;
+  font-weight: 400;
+  font-family: Helvetica,Arial,sans-serif;
+  
+}
