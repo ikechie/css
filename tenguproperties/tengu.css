@@ -63,3 +63,17 @@
   font-family: Helvetica,Arial,sans-serif;
   
 }
+
+.ui-column-header {
+	background-color: rgb(183, 158, 87);
+	color: white;
+	text-shadow: none;
+    font-weight: 700;		
+}
+
+.rbn-more-info-button.ui-btn.ui-icon-arrow-r.ui-btn-icon-left.ui-btn-inline.ui-shadow.ui-corner-all{
+	background-color: rgb(183, 158, 87);
+	color: white;
+	text-shadow: none;
+    font-weight: 700;	
+}
