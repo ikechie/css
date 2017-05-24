@@ -1,0 +1,52 @@
+.ui-header.ui-bar-inherit {
+    background-color: #e96656;
+    border-color: #DDD;
+    color: #fff;
+    background: url('http://aspectniseko.com/wp-content/uploads/2017/03/aspect-logo.png') center no-repeat, linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('http://aspectniseko.com/wp-content/uploads/2017/02/book-banner-1.jpg') center no-repeat;
+    height: 450px;       
+}
+
+.ui-content {
+	background-color: White;	
+}
+
+.ui-page.ui-page-theme-a.ui-page-active{
+	background-color: White;	
+	font-family: Cinzel;	
+}
+
+.ui-panel-m-titlebar.ui-bar{
+	color: #d6b257;
+	background-color: White;
+	text-transform: uppercase;
+	font-size: 40px;
+	font-family: Cinzel;
+}
+
+h3{
+	font-weight: 300;	
+}
+
+
+
+/*remove title*/
+.ui-title{
+	visibility: hidden;
+}
+
+
+.ui-page-theme-a {
+  background: white;
+  color: #666;
+  font-family: Cinzel!important;  
+}
+
+.ui-corner-all {
+  border-radius: 0;
+  font-family: Cinzel;
+}
+
+.ui-select .ui-btn select {
+  border-radius: 0;
+  font-family: Cinzel;
+}
