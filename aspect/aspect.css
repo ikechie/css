@@ -50,3 +50,41 @@ h3{
   border-radius: 0;
   font-family: Cinzel;
 }
+
+.rbn_ven_descr {
+  font-size: 14px;
+  line-height: 22px;
+  font-family: Cinzel;
+}
+
+.ui-panel-m-content.ui-body{
+	font-family: Cinzel;
+}
+
+.ui-grid-a{
+	background-color:white;
+	font-family: Cinzel;	
+}
+
+.ui-bar-a{
+	background-color:white;
+	color: white;	
+}
+
+.ui-btn{
+	background-color:white;
+	font-family: Cinzel;
+}
+
+.ui-column-header {
+	background-color: white;
+	color: #d6b257;
+	text-shadow: none;
+    font-weight: 700;		
+    font-family: Cinzel;
+    text-transform: uppercase;
+}
+
+.nvav-date{	
+	color: black;
+}
