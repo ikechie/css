@@ -12,6 +12,12 @@
 }
 */
 
+/* for your booking page*/
+.ui-title{
+	padding-top:50px;
+	font-size:20px;
+}
+
 /* Avoid vendor description. */
 #base_page\:descPanel {
 	visibility: hidden;
@@ -37,17 +43,3 @@
 	text-shadow: none;	
 }
 
-/*
-.ui-column-header {
-	background: linear-gradient(to top,#213357,#3585ac);
-	color: white;
-	text-shadow: none;    	
-}
-*/
-
-/*calendar dates black
-.nvav-date{	
-	color: black;
-	background-color: white;
-}
-*/
