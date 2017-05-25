@@ -23,7 +23,7 @@
 
 /* colour on header bars */
 .ui-panel-m-titlebar.ui-bar{
-	background-color: linear-gradient(to top,#213357,#3585ac);
+	background-color: linear-gradient(#213357,#3585ac);
 	color: white;
 	text-shadow: none;	
 }
