@@ -1,9 +1,9 @@
 /* #5357: bpay1 shown within iframe */
 
-/* Avoid top level padding. */
+/* Avoid top level padding. need to make this bpay widget only 
 .ui-content {
 	padding: 0;
-}
+}*/
 
 /* background white */
 .ui-page-theme-a{
@@ -25,7 +25,7 @@
 /*image on header on yourbooking page */
 .ui-header.ui-bar-inherit {
 	background: url('http://www.taigaprojects.com/assets/img/logo.png') left no-repeat, linear-gradient(to top,#213357,#3585ac);
-	background-position: 352px, 500px;
+	background-position: 375px, 500px;
    	height: 123px;
 }
 
