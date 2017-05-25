@@ -31,17 +31,19 @@
 }
 
 /* colour on header/title bars */
-.ui-panel-m-titlebar.ui-bar{
+.ui-panel-m-titlebar.ui-bar, .ui-column-header{
 	background: linear-gradient(to top,#213357,#3585ac);
 	color: white;
 	text-shadow: none;	
 }
 
+/*
 .ui-column-header {
 	background: linear-gradient(to top,#213357,#3585ac);
 	color: white;
 	text-shadow: none;    	
 }
+*/
 
 /*calendar dates black*/
 .nvav-date{	
