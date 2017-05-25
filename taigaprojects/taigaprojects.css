@@ -1,16 +1,16 @@
 /* #5357: bpay1 shown within iframe */
 
-/* Avoid top level padding. need to make this bpay widget only 
-.ui-content {
+/* Avoid top level padding. need to make this bpay widget only */
+[title~=Taiga] .ui-content {
 	padding: 0;
-}*/
+}
 
-/* Avoid header need to make this bpay widget only
-#base_page\:descPanel {
+/* Avoid header need to make this bpay widget only*/
+[title~=Taiga] .ui-header.ui-bar-inherit {
 	visibility: hidden;
 	height: 0;
 }
-*/
+
 
 /* for your booking page*/
 .ui-title{
