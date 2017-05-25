@@ -1,22 +1,25 @@
 /* #5357: bpay1 shown within iframe */
 
-/* Avoid top level padding. need to make this bpay widget only */
-[title~=Taiga] .ui-content {
+/* Avoid top level padding. need to make this bpay widget only
+[title~=Taiga] */
+.ui-content {
 	padding: 0;
 }
 
-/* Avoid header need to make this bpay widget only*/
-[title~=Taiga] .ui-header.ui-bar-inherit {
+/* Avoid header need to make this bpay widget only
+[title~=Taiga] */
+.ui-header.ui-bar-inherit {
 	visibility: hidden;
 	height: 0;
 }
 
 
-/* for your booking page*/
+/* for your booking page
 .ui-title{
 	padding-top:45px!important;
 	font-size:30px!important;
 }
+*/
 
 /* Avoid vendor description. */
 #base_page\:descPanel {
@@ -29,8 +32,9 @@
 	background-color: White;	
 }
 
+
 /*image, colour on header*/
-.ui-header.ui-bar-inherit {
+#base_page\3a messages {
 	background: url('http://www.taigaprojects.com/assets/img/logo.png') left no-repeat, linear-gradient(to top,#213357,#3585ac);
 	background-position: 475px, 500px;
    	height: 123px;
