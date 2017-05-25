@@ -33,3 +33,8 @@
 	color: white;
 	text-shadow: none;    	
 }
+
+/*calendar dates black*/
+.nvav-date{	
+	color: black;
+}
