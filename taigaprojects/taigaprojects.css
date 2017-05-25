@@ -27,3 +27,9 @@
 	color: white;
 	text-shadow: none;	
 }
+
+.ui-column-header {
+	background-color: linear-gradient(#213357,#3585ac);
+	color: white;
+	text-shadow: none;    	
+}
