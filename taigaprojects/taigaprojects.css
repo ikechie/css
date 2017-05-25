@@ -19,7 +19,7 @@
 
 /*image on header on yourbooking page */
 #base_page:base_header{
-	background-image: url('https://nisekoeast.com/assets/svg/logo.svg') left no-repeat, linear-gradient(to top,#213357,#3585ac);	
+	background-image: url('http://www.taigaprojects.com/assets/img/logo.png') left no-repeat, linear-gradient(to top,#213357,#3585ac);	
 }
 
 /* colour on header/title bars */
