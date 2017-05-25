@@ -26,7 +26,7 @@
 /*image, colour on header*/
 .ui-header.ui-bar-inherit {
 	background: url('http://www.taigaprojects.com/assets/img/logo.png') left no-repeat, linear-gradient(to top,#213357,#3585ac);
-	background-position: 375px, 500px;
+	background-position: 475px, 500px;
    	height: 123px;
 }
 
