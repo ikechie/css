@@ -17,20 +17,27 @@
 	height: 0;
 }
 
+/*remove title*/
+.ui-title{
+	visibility: hidden;
+}
+
 /*image on header on yourbooking page */
 .ui-header.ui-bar-inherit {
-	background: url('http://www.taigaprojects.com/assets/img/logo.png') left no-repeat, linear-gradient(to top,#213357,#3585ac);	
+	background: url('http://www.taigaprojects.com/assets/img/logo.png') left no-repeat, linear-gradient(to top,#213357,#3585ac);
+	background-position: 352px, 500px;
+   	height: 123px;
 }
 
 /* colour on header/title bars */
 .ui-panel-m-titlebar.ui-bar{
-	background-color: #223855;
+	background: linear-gradient(to top,#213357,#3585ac);
 	color: white;
 	text-shadow: none;	
 }
 
 .ui-column-header {
-	background-color: #223855;
+	background: linear-gradient(to top,#213357,#3585ac);
 	color: white;
 	text-shadow: none;    	
 }
