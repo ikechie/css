@@ -18,7 +18,7 @@
 }
 
 /*image on header on yourbooking page */
-.ui-header{
+.ui-header.ui-bar-inherit {
 	background-image: url('http://www.taigaprojects.com/assets/img/logo.png') left no-repeat, linear-gradient(to top,#213357,#3585ac);	
 }
 
