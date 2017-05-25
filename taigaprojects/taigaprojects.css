@@ -11,6 +11,14 @@
 	height: 0;
 }
 
-.ui-header{
+/* background white */
+.ui-overlay-a{
 	background-color: White;	
 }
+
+/* image on header on yourbooking page 
+#base_page:base_header{
+	background: url('https://nisekoeast.com/assets/svg/logo.svg') left no-repeat;	
+}*/
+
+/* colour on header bars */
