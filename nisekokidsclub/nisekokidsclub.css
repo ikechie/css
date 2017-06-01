@@ -1,0 +1,40 @@
+#base_page > div.ui-content > table > tbody > tr > td:nth-child(1){
+	display:none;
+}
+
+#base_page > div.ui-content > table > tbody > tr > td:nth-child(2){
+	display:none;
+}
+
+.ui-header.ui-bar-inherit{
+	background:url("http://www.nisekokidsclub.com/wp-content/uploads/2016/11/niseko-kids-club-1.png") no-repeat left;
+	background-color:white;
+	/*background-size:300px;*/
+	background-position: 25% ;
+	border:none;
+	height:101px;
+	padding:20px 500px;
+}
+
+/*remove title*/
+.ui-header.ui-bar-inherit h1.ui-title{
+	display:none;
+}
+
+/*background white*/
+.ui-page.ui-page-theme-a.ui-page-active{
+	background-color: White;	
+}
+
+/*titlebar color and text white*/
+.ui-panel-m-titlebar{
+	background-color:#54c5d0!important;
+	color:white!important;
+	text-shadow:none!important;	
+}
+/*column header color and text white yourbookingpage*/
+.ui-column-header{
+	background-color:#54c5d0!important;
+	color:white!important;
+	text-shadow:none!important;	
+}
