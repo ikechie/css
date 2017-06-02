@@ -11,6 +11,7 @@
 
 .ui-header.ui-bar-inherit{
 	background:url("http://www.villasuami.com/images/villa/main.jpg") no-repeat center;
+	background-position: 25% 25%;
 	background-color:white;
 	/*background-size:300px;*/
 	border:none;
