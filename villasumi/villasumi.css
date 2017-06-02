@@ -16,3 +16,7 @@
 	border:none;
 	height:200px;	
 }
+
+#base_page:descPanel{
+	display:none;
+}
