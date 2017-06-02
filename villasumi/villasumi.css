@@ -1,1 +1,18 @@
 
+/*background white*/
+.ui-page.ui-page-theme-a.ui-page-active{
+	background-color: White;	
+}
+
+/*remove title*/
+.ui-header.ui-bar-inherit h1.ui-title{
+	display:none;
+}
+
+.ui-header.ui-bar-inherit{
+	background:url("http://www.villasuami.com/images/villa/main.jpg") no-repeat center;
+	background-color:white;
+	/*background-size:300px;*/
+	border:none;
+	height:101px;	
+}
