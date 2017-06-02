@@ -1,0 +1,52 @@
+#base_page > div.ui-content > table > tbody > tr > td:nth-child(1){
+	display:none;
+}
+
+#base_page > div.ui-content > table > tbody > tr > td:nth-child(2){
+	display:none;
+}
+
+.ui-header.ui-bar-inherit{
+	background:url("http://nisekobabysitters.com/wp-content//uploads/2017/04/NB-logo.jpg") no-repeat left, url("http://nisekobabysitters.com/wp-content/uploads/2013/07/site_background2.jpg");
+	background-position: 22% top, center top; 
+	background-size: 9%, auto; 
+	background-repeat: no-repeat, repeat; 
+	background-attachment: local, fixed;
+	border:none;
+	height:175px;	
+}
+
+/*remove title*/
+.ui-header.ui-bar-inherit h1.ui-title{
+	display:none;
+}
+
+/*background white*/
+.ui-page.ui-page-theme-a.ui-page-active{
+	/*background-color: White;*/
+	background-image: url("http://nisekobabysitters.com/wp-content/uploads/2013/07/site_background2.jpg"); 
+	background-position: center top; background-size: auto; 
+	background-repeat: repeat; 
+	background-attachment: fixed;
+}
+
+/*titlebar color and text white*/
+.ui-panel-m-titlebar{
+	background-color:#b0d235!important;
+	color:white!important;
+	text-shadow:none!important;	
+}
+/*column header color and text white yourbookingpage*/
+.ui-column-header{
+	background-color:#b0d235!important;
+	color:white!important;
+	text-shadow:none!important;	
+}
+
+.ui-table-row{
+	background-color:white;
+}
+
+#base_page\3a txtab_data > tr{
+	background-color:white!important;
+}
