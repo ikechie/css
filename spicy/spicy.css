@@ -15,11 +15,6 @@
 	display:none;
 }
 
-/*background white
-.ui-page.ui-page-theme-a.ui-page-active{
-	background-color: #03283b;	
-}
-*/
 
 #base_page > div.ui-content > table > tbody > tr > td:nth-child(1){
 	display:none;
