@@ -1,5 +1,5 @@
 .ui-header.ui-bar-inherit{
-	background:url("http://spicy.co.jp/wordpress/wp-content/themes/spicy20161220/img/common/logo_on.png") no-repeat left;
+	background:url("http://spicy.co.jp/wordpress/wp-content/themes/spicy20161220/img/common/logo_on.png") no-repeat left, solid #e8740c;
 	background-color: #03283b;
 	background-position: 25% ;
 	border-bottom: 5px solid #e8740c;
