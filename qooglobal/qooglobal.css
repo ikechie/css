@@ -1,0 +1,97 @@
+.ui-title{
+	visibility: hidden;
+}
+
+.ui-header.ui-bar-inherit {
+	background: url(http://qoohotel.com/wp-content/themes/qoohotel/images/qoohotels.png) no-repeat left;
+	height: 150px;
+	background-size: 304px; 
+	background-color: #F0F0F0!important;
+	background-position: 29.5%;
+	/*margin: 46px 0 0 20px;*/
+	
+	
+    /*background-size: 304px 53px;
+    display: block;
+    width: 304px;
+    
+    float: left;
+    
+    position: fixed;*/
+    
+    
+     /*border-color: #DDD;
+   color: #fff;
+    
+    background: url('http://aspectniseko.com/wp-content/uploads/2017/03/aspect-logo.png') center no-repeat, linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('http://aspectniseko.com/wp-content/uploads/2017/02/book-banner-1.jpg') center no-repeat;
+      */   
+}
+
+.ui-header.ui-bar-inherit {
+	background-color: #F0F0F0;
+	border: none;
+}
+
+.ui-content {
+	background-color: #F0F0F0;	
+}
+
+.ui-page.ui-page-theme-a.ui-page-active{
+	background-color: #F0F0F0;	
+}
+
+
+.ui-page-theme-a {
+  background: white;
+  color: #666;
+}
+
+.ui-corner-all {
+  border-radius: 0;
+}
+
+.ui-select .ui-btn select {
+  border-radius: 0;
+}
+
+.rbn_ven_descr {
+  font-size: 14px;
+  line-height: 22px;
+}
+
+
+
+.ui-panel-m-titlebar.ui-bar{
+	background-color: rgb(183, 158, 87);
+	color: white;
+	text-shadow: none;	
+}
+
+.ui-grid-a{
+	background-color:white;
+	color: white;
+}
+.ui-header.ui-bar-inherit, div.ui-footer.ui-bar-inherit {
+  background-color: white;
+  border: none;
+  color: rgb(51, 51, 51);
+  text-shadow: none;
+  font-size: 1rem;
+  font-weight: 400;
+  font-family: Helvetica,Arial,sans-serif;
+  
+}
+
+.ui-column-header {
+	background-color: rgb(183, 158, 87);
+	color: white;
+	text-shadow: none;
+    font-weight: 700;		
+}
+
+.rbn-more-info-button.ui-btn.ui-icon-arrow-r.ui-btn-icon-left.ui-btn-inline.ui-shadow.ui-corner-all{
+	background-color: rgb(183, 158, 87);
+	color: white;
+	text-shadow: none;
+    font-weight: 700;	
+}
