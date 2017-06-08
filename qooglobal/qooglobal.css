@@ -1,9 +1,9 @@
 .ui-title{
-	visibility: hidden;
+	display: none;
 }
 
 .ui-panel-m-content ui-body ui-body-inherit{
-	visibility: hidden;
+	display: none;
 }
 
 .ui-header.ui-bar-inherit {
