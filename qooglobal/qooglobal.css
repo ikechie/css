@@ -17,9 +17,9 @@
 }
 
 body, input, select, textarea, button, .ui-btn {
-  font-family: candara;
-  font-weight: 100;
-  background: #F0F0F0;
+  	font-family: candara;
+	  font-weight: 100;
+ 	 background: #F0F0F0;
 	text-transform: uppercase;
 	color: black;
 	text-shadow: none;
@@ -28,6 +28,9 @@ body, input, select, textarea, button, .ui-btn {
 	font-weight: 100;
 }
 
+.ui-collapsible-content.ui-body-inherit{
+  	background: #F0F0F0;	
+}
 
 /*.ui-panel-m-titlebar{
 	background-color: #F0F0F0;
