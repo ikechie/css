@@ -23,6 +23,7 @@
 	text-transform: uppercase;
 	color: black;
 	text-shadow: none;
+	border: none;
 }
 
 .ui-responsive ui-table table-stripe{
