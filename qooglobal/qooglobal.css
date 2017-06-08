@@ -35,9 +35,8 @@ body, input, select, textarea, button, .ui-btn {
 }
 
 .ui-collapsible-heading-toggle{
-	background-color: #F0F0F0;
-	font-family: candara;
-	
+	background: linear-gradient(to top,grey,white);
+	font-family: candara;	
 	border: none;
 	font-size: large;
 	font-weight:100;
