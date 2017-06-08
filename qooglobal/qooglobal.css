@@ -27,7 +27,9 @@
 	
 }
 
-.ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
+/*.ui-panel-m-titlebar.ui-bar.ui-bar-inherit*/
+
+.h3{
 	background-color: #F0F0F0;
 	font-family: candara;
 	padding:inherit;
