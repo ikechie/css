@@ -8,23 +8,14 @@
 	background-size: 304px; 
 	background-color: #F0F0F0!important;
 	background-position: 29.5%;
-	
-	
-	
-    /*background-size: 304px 53px;
-    display: block;
-    width: 304px;
-    
-    float: left;
-    
-    position: fixed;*/
-    
-    
-     /*border-color: #DDD;
-   color: #fff;
-    
-    background: url('http://aspectniseko.com/wp-content/uploads/2017/03/aspect-logo.png') center no-repeat, linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('http://aspectniseko.com/wp-content/uploads/2017/02/book-banner-1.jpg') center no-repeat;
-      */   
+}
+
+.ui-panel-m-titlebar ui-bar ui-bar-inherit{
+	background-color: #F0F0F0;
+	border: none;
+	background-color: rgb(183, 158, 87);
+	color: black;
+	text-shadow: none;
 }
 
 .ui-header.ui-bar-inherit {
@@ -61,11 +52,11 @@
 
 
 
-.ui-panel-m-titlebar.ui-bar{
+/*.ui-panel-m-titlebar.ui-bar{
 	background-color: rgb(183, 158, 87);
 	color: white;
 	text-shadow: none;	
-}
+}*/
 
 .ui-grid-a{
 	background-color:white;
