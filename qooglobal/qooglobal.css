@@ -30,7 +30,7 @@
 .ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
 	background-color: #F0F0F0;
 	font-family: candara;
-	padding:none;
+	padding:inherit;
 	text-transform: uppercase;
 	color: black;
 	text-shadow: none;
