@@ -27,6 +27,18 @@
 	
 }*/
 
+.ui-collapsible-heading-toggle{
+	background-color: #F0F0F0;
+	font-family: candara;
+	padding:inherit;
+	text-transform: uppercase;
+	color: black;
+	text-shadow: none;
+	border: none;
+	font-size: large;
+	font-weight:100;
+}
+
 .ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
 	background-color: #F0F0F0;
 	font-family: candara;
