@@ -2,6 +2,10 @@
 	visibility: hidden;
 }
 
+.ui-panel-m-content ui-body ui-body-inherit{
+	visibility: hidden;
+}
+
 .ui-header.ui-bar-inherit {
 	background: url(http://qoohotel.com/wp-content/themes/qoohotel/images/qoohotels.png) no-repeat left;
 	height: 150px;
