@@ -37,11 +37,6 @@
 	border: none;
 	font-size: x-large;
 }
-/*
-.ui-responsive ui-table table-stripe{
-	width: 100%;
-}
-
 
 .ui-header.ui-bar-inherit {
 	background-color: #F0F0F0;
@@ -51,6 +46,15 @@
 .ui-content {
 	background-color: #F0F0F0;	
 }
+
+
+/*
+.ui-responsive ui-table table-stripe{
+	width: 100%;
+}
+
+
+
 
 .ui-page.ui-page-theme-a.ui-page-active{
 	background-color: #F0F0F0;	
