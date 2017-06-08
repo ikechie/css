@@ -16,6 +16,15 @@
 	background-position: 29.5%;
 }
 
+body, input, select, textarea, button, .ui-btn {
+  font-family: candara;
+  font-weight: 100;
+  background: #F0F0F0;
+	text-transform: uppercase;
+	color: black;
+	text-shadow: none;
+}
+
 /*.ui-panel-m-titlebar{
 	background-color: #F0F0F0;
 	font-family: candara;
@@ -30,9 +39,7 @@
 .ui-collapsible-heading-toggle{
 	background-color: #F0F0F0;
 	font-family: candara;
-	text-transform: uppercase;
-	color: black;
-	text-shadow: none;
+	
 	border: none;
 	font-size: large;
 	font-weight:100;
