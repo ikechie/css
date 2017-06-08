@@ -16,7 +16,7 @@
 	background-position: 29.5%;
 }
 
-.ui-panel-m-titlebar{
+/*.ui-panel-m-titlebar{
 	background-color: #F0F0F0;
 	font-family: candara;
 	padding:inherit;
@@ -25,11 +25,9 @@
 	text-shadow: none;
 	border: none;
 	
-}
+}*/
 
-/*.ui-panel-m-titlebar.ui-bar.ui-bar-inherit*/
-
-.h3{
+.ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
 	background-color: #F0F0F0;
 	font-family: candara;
 	padding:inherit;
