@@ -24,6 +24,10 @@ body, input, select, textarea, button, .ui-btn {
 	color: black;
 	text-shadow: none;
 }
+.ui-panel-m-titlebar > h3:nth-child(1){
+	font-weight: 100;
+}
+
 
 /*.ui-panel-m-titlebar{
 	background-color: #F0F0F0;
