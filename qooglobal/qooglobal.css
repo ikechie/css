@@ -36,6 +36,11 @@
 	text-shadow: none;
 	border: none;
 	font-size: x-large;
+	font-weight:100;
+}
+
+.ui-page.ui-page-theme-a.ui-page-active{
+	background-color: #F0F0F0;	
 }
 
 .ui-header.ui-bar-inherit {
