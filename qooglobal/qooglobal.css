@@ -18,7 +18,7 @@
 
 .ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
 	background-color: #F0F0F0;
-	border: none;
+	font-family: candara;
 	color: black;
 	text-shadow: none;
 }
