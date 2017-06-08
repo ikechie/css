@@ -3,7 +3,7 @@
 	display: none;
 }
 
-.ui-panel-m-content ui-body ui-body-inherit{
+.ui-panel-m-content.ui-body.ui-body-inherit{
 	visibility:hidden;
 	display: none;
 }
