@@ -77,6 +77,10 @@ body, input, select, textarea, button, .ui-btn {
 }
 
 .rb-gicon{
-	display: none;
+	
 	background: url(https://roomboss.github.io/css/qooglobal/user.png) no-repeat left;
+}
+
+#base_page:bpayForm:tabview:pdttble:0:gicon{
+display: none;
 }
