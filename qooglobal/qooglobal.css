@@ -76,10 +76,13 @@ body, input, select, textarea, button, .ui-btn {
 	display: none;	
 }
 
-.rb-gicon{	
+#base_page:bpayForm:tabview:pdttble:0:capacity{	
 	background: url(https://roomboss.github.io/css/qooglobal/user.png) no-repeat left;
 }
 
-#base_page:bpayForm:tabview:pdttble:0:gicon{
-visibility:hidden;
+.rb-gicon{	
+	visibility:hidden;
 }
+/*#base_page:bpayForm:tabview:pdttble:0:gicon{
+visibility:hidden;
+}*/
