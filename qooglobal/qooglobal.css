@@ -76,4 +76,7 @@ body, input, select, textarea, button, .ui-btn {
 	display: none;	
 }
 
-
+.rb-gicon{
+	display: none;
+	background: url(https://roomboss.github.io/css/qooglobal/user.png) no-repeat left;
+}
