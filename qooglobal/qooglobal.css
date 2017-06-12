@@ -83,6 +83,8 @@ body, input, select, textarea, button, .ui-btn {
 .rb-gicon{	
 	visibility:hidden;
 }
-/*#base_page:bpayForm:tabview:pdttble:0:gicon{
-visibility:hidden;
-}*/
+
+#base_page\3a datesPanel > div > div > h4 > span:nth-child(3){	
+	padding-left:500;
+}
+
