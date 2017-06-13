@@ -85,5 +85,6 @@ body, input, select, textarea, button, .ui-btn {
 }
 
 #base_page\3a datesPanel > div > div > h4 > span:nth-child(3){	
-	margin-left:500px;
+	margin-left:275px;
+	margin-top:-50px;
 }
