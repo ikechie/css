@@ -5,7 +5,7 @@
 
 /* colour on header/title bars */
 .ui-panel-m-titlebar.ui-bar, .ui-column-header{
-	background: url("http://ww2.kyoto-saya.com/wp-content/uploads/2016/04/tower.jpg");
+	background: linear-gradient(to top,#213357,#3585ac);
 	color: white;
 	text-shadow: none;	
 }
@@ -15,8 +15,7 @@
 	background-color:white;
 	background-position: 25% ;
 	border:none;
-	height:101px;
-	/*padding:20px 500px;*/
+	height:100px;	
 }
 
 /*remove title*/
