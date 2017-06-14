@@ -33,7 +33,7 @@
 	text-shadow: none;	
 }
 
-.ui-column-header.rbn-eidcol{
+#base_page:tabview:resultTable0_head, #base_page:tabview:elementTable0_head{
 	background: linear-gradient(to top,grey,white);
 	color: black;
 	text-shadow: none;	
