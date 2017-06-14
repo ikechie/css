@@ -105,3 +105,8 @@ body, input, select, textarea, button, .ui-btn {
 .ui-panel-m-titlebar.ui-bar.ui-bar-inherit{	
 	background: url(https://roomboss.github.io/css/qooglobal/qoo3.png) no-repeat left;	
 }
+
+/*remove language toggle*/
+#base_page:locform:languageSelect{	
+	display:none;
+}
