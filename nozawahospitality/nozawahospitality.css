@@ -1,1 +1,21 @@
+/*nozawa*/
+.ui-header.ui-bar-inherit{
+	background:url("http://www.nozawahospitality.com/wp-content/uploads/2012/12/kknh-logo4.png") no-repeat left bottom, linear-gradient(to top,black,grey);
+	border:none;
+	height:100px;
+	background-position: 25% 100%;	
+	padding-bottom: 20px;
+	
+}
 
+/*remove title*/
+.ui-header.ui-bar-inherit h1.ui-title{
+	display:none;
+}	
+
+/* colour on header/title bars */
+.ui-panel-m-titlebar.ui-bar, .ui-column-header{
+	background: linear-gradient(to top,black,grey);
+	color: white;
+	text-shadow: none;	
+}
