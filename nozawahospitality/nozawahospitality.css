@@ -22,7 +22,7 @@
 
 .ui-column-header{
 	background: linear-gradient(to top,grey,white);
-	color: white;
+	color: black;
 	text-shadow: none;	
 }
 
@@ -31,11 +31,3 @@
 	color: black;
 	text-shadow: none;	
 }
-
-/*
-#base_page:tabview:resultTable0_head{
-	background: linear-gradient(to top,grey,white);
-	color: black;
-	text-shadow: none;	
-}
-, #base_page:tabview:elementTable0_head*/
