@@ -20,6 +20,12 @@
 	text-shadow: none;	
 }
 
+#base_page:ttab_head, #base_page:postab_head{
+	background: linear-gradient(to top,black,grey);
+	color: white;
+	text-shadow: none;	
+}
+
 .ui-panel-m-content.ui-body.ui-body-inherit .ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
 	background: linear-gradient(to top,grey,white);
 	color: black;
