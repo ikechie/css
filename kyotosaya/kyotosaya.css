@@ -5,7 +5,7 @@
 
 /* colour on header/title bars */
 .ui-panel-m-titlebar.ui-bar, .ui-column-header{
-	background: linear-gradient(to top,#213357,#3585ac);
+	background: url("http://ww2.kyoto-saya.com/wp-content/uploads/2016/04/kyoto_night.jpg");
 	color: white;
 	text-shadow: none;	
 }
