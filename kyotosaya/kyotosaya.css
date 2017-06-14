@@ -13,11 +13,10 @@
 .ui-header.ui-bar-inherit{
 	background:url("http://ww2.kyoto-saya.com/wp-content/uploads/2017/06/Saya-logo.png") no-repeat left;
 	background-color:white;
-	/*background-size:300px;*/
 	background-position: 25% ;
 	border:none;
 	height:101px;
-	padding:20px 500px;
+	/*padding:20px 500px;*/
 }
 
 /*remove title*/
