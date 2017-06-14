@@ -33,8 +33,9 @@
 	text-shadow: none;	
 }
 
-#base_page:tabview:resultTable0_head, #base_page:tabview:elementTable0_head{
+#base_page:tabview:resultTable0_head{
 	background: linear-gradient(to top,grey,white);
 	color: black;
 	text-shadow: none;	
 }
+/*, #base_page:tabview:elementTable0_head*/
