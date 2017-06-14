@@ -14,8 +14,14 @@
 }	
 
 /* colour on header/title bars */
-.ui-panel-m-titlebar.ui-bar, .ui-column-header{
+.ui-panel-m-titlebar.ui-bar,{
 	background: linear-gradient(to top,black,grey);
+	color: white;
+	text-shadow: none;	
+}
+
+.ui-column-header{
+	background: linear-gradient(to top,grey,white);
 	color: white;
 	text-shadow: none;	
 }
