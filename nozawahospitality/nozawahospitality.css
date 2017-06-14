@@ -14,7 +14,7 @@
 }	
 
 /* colour on header/title bars */
-.ui-bar-a, .ui-column-header, .ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
+.ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
 	background: linear-gradient(to top,black,grey);
 	color: white;
 	text-shadow: none;	
