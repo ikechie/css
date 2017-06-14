@@ -5,8 +5,8 @@
 
 /* colour on header/title bars */
 .ui-panel-m-titlebar.ui-bar, .ui-column-header{
-	background: linear-gradient(to top,pink,red);
-	color: white;
+	background: linear-gradient(to top,white,pink);
+	color: black;
 	text-shadow: none;
 	border:none;
 }
