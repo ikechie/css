@@ -21,13 +21,13 @@
 }
 
 .ui-column-header{
-	background: linear-gradient(to top,white,grey);
+	background: linear-gradient(to top,grey,white);
 	color: black;
 	text-shadow: none;	
 }
 
 .ui-panel-m-content.ui-body.ui-body-inherit .ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
-	background: linear-gradient(to top,white,grey);
+	background: linear-gradient(to top,grey,white);
 	color: black;
 	text-shadow: none;	
 }
