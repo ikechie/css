@@ -95,6 +95,6 @@ body, input, select, textarea, button, .ui-btn {
 	margin-left:10px;
 }
 /*remove language toggle*/
-#base_page:locform{	
+#base_page:locform:languageSelect{	
 	display:none;
 }
