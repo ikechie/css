@@ -33,3 +33,8 @@
 	text-shadow: none;	
 }
 
+.ui-column-header.rbn-eidcol{
+	background: linear-gradient(to top,grey,white);
+	color: black;
+	text-shadow: none;	
+}
