@@ -5,9 +5,10 @@
 
 /* colour on header/title bars */
 .ui-panel-m-titlebar.ui-bar, .ui-column-header{
-	background: linear-gradient(to top,pink,#3585ac);
+	background: linear-gradient(to top,pink,red);
 	color: white;
-	text-shadow: none;	
+	text-shadow: none;
+	border:none;
 }
 
 .ui-header.ui-bar-inherit{
