@@ -21,11 +21,11 @@
 }
 
 
-.ui-column-header{
+/*.ui-column-header{
 	background: linear-gradient(to top,black,grey);
 	color: white;
 	text-shadow: none;	
-}
+}*/
 
 .ui-panel-m-content.ui-body.ui-body-inherit .ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
 	background: linear-gradient(to top,grey,white);
@@ -33,9 +33,10 @@
 	text-shadow: none;	
 }
 
+/*
 #base_page:tabview:resultTable0_head{
 	background: linear-gradient(to top,grey,white);
 	color: black;
 	text-shadow: none;	
 }
-/*, #base_page:tabview:elementTable0_head*/
+, #base_page:tabview:elementTable0_head*/
