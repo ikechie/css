@@ -1,0 +1,26 @@
+/* background white */
+.ui-page-theme-a{
+	background-color: White;	
+}
+
+/* colour on header/title bars */
+.ui-panel-m-titlebar.ui-bar, .ui-column-header{
+	background: linear-gradient(to top,#213357,#3585ac);
+	color: white;
+	text-shadow: none;	
+}
+
+.ui-header.ui-bar-inherit{
+	background:url("http://ww2.kyoto-saya.com/wp-content/uploads/2017/06/Saya-logo.png") no-repeat left;
+	background-color:white;
+	/*background-size:300px;*/
+	background-position: 25% ;
+	border:none;
+	height:101px;
+	padding:20px 500px;
+}
+
+/*remove title*/
+.ui-header.ui-bar-inherit h1.ui-title{
+	display:none;
+}
