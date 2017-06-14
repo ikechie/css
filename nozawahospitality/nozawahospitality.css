@@ -14,14 +14,16 @@
 }	
 
 /* colour on header/title bars */
-.ui-panel-m-titlebar ui-bar ui-bar-inherit{
+.ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
 	background: linear-gradient(to top,black,grey);
 	color: white;
 	text-shadow: none;	
 }
 
-.rbn-offers-panel.ui-hidden-container div.ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
+.ui-panel-m-content.ui-body.ui-body-inherit .ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
 	background: linear-gradient(to top,grey,white);
 	color: white;
 	text-shadow: none;	
 }
+
+
