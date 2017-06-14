@@ -1,0 +1,62 @@
+.ui-header.ui-bar-inherit {
+	background: #375d9d
+		url('https://d1hcau8biln41r.cloudfront.net/blog/_slide/jenny-yuka-1.jpg?mtime=20160302193017')
+		no-repeat;
+	background-position: 50% 12%;
+	padding-top: 80px;
+	padding-bottom: 70px;
+	border-top: 5px solid #72d54a;
+	border-bottom: none;
+}
+
+.ui-title {
+	visibility: hidden;
+}
+
+.ui-collapsible-heading-toggle, .ui-panel-m-titlebar {
+	background: #375d9d
+		url('https://www.gondolasnowsports.com/assets/img/yotei-bg.jpg')
+		no-repeat;
+	background-position: 50% 80%;
+	color: #ffffff !important;
+	text-shadow: none !important;
+}
+
+div.ui-footer.ui-bar-inherit {
+	background-color: #375d9d;
+	border-color: #375d9d;
+	color: #ddd;
+	text-shadow: none;
+}
+
+[id*='wufooLink']{
+	visibility: hidden;	
+}
+
+.rb-header-title {
+	display: none;	
+}
+
+.rb-header {
+background: #375d9d
+		url('https://d1hcau8biln41r.cloudfront.net/blog/_slide/jenny-yuka-1.jpg?mtime=20160302193017')
+		no-repeat;
+	background-position: 50% 12%;
+	padding-top: 80px;
+	padding-bottom: 160px !important;
+	border-top: 5px solid #72d54a;
+	border-bottom: none;	
+}
+
+.rb-body-content {
+	background: #fbfbfb;
+	border:4px;
+	color: #000000;
+	text-shadow: none;
+	
+}
+
+input#base_page\:neworderform\:checkin_input {
+	border: #72d54a 5px solid;
+	font-size: 1.3em;
+}
