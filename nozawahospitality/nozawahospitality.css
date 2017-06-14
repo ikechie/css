@@ -20,15 +20,10 @@
 	text-shadow: none;	
 }
 
-#base_page:ttab_head, #base_page:postab_head{
+
+.ui-column-header{
 	background: linear-gradient(to top,black,grey);
 	color: white;
-	text-shadow: none;	
-}
-
-.ui-collapsible-themed-content{
-	background: linear-gradient(to top,grey,white);
-	color: black;
 	text-shadow: none;	
 }
 
@@ -37,3 +32,4 @@
 	color: black;
 	text-shadow: none;	
 }
+
