@@ -23,7 +23,7 @@
 	display:none;
 }
 
-.ui-footer{
+.ui-footer.ui-bar-inherit{
 	background-color: #666;
 	color: White;
 	text-shadow: none;
