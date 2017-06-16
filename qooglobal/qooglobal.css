@@ -72,7 +72,7 @@ body, input, select, textarea, button, .ui-btn {
 }
 
 /*remove bath icon*/
-.rb-bicon, #base_page:bpayForm:tabview:pdttble:0:bath{
+.rb-bicon{
 	display: none;	
 }
 /*remove bath number*/
