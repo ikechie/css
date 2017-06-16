@@ -91,6 +91,11 @@ body, input, select, textarea, button, .ui-btn {
 	background: url(https://roomboss.github.io/css/qooglobal/user.png) no-repeat left;
 }
 
+#base_page\:bpayForm\:tabview\:pdttble\:1\:gicon{
+	background: url(https://roomboss.github.io/css/qooglobal/user.png) no-repeat left;
+}
+
+
 /*hide guest icon*/
 .rb-gicon{	
 	visibility:hidden;
