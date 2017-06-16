@@ -81,8 +81,13 @@ body, input, select, textarea, button, .ui-btn {
 	display: none;	
 }
 
-/*add bw guest icon*/
+/*add bw guest icon
 #base_page\:bpayForm\:tabview\:pdttble\:0\:j_idt60 > div:nth-child(1), #base_page\:bpayForm\:tabview\:pdttble\:1\:j_idt60 > div:nth-child(1), #base_page\:bpayForm\:tabview\:pdttble\:2\:j_idt60 > div:nth-child(1),#base_page\:bpayForm\:tabview\:pdttble\:3\:j_idt60 > div:nth-child(1),#base_page\:bpayForm\:tabview\:pdttble\:4\:j_idt60 > div:nth-child(1){	
+	background: url(https://roomboss.github.io/css/qooglobal/user.png) no-repeat left;
+}
+*/
+
+#base_page\:bpayForm\:tabview\:pdttble\:0\:capacity{
 	background: url(https://roomboss.github.io/css/qooglobal/user.png) no-repeat left;
 }
 
