@@ -77,7 +77,7 @@ body, input, select, textarea, button, .ui-btn {
 }
 
 /*remove bath number*/
-#base_page\:bpayForm\:tabview\:pdttble\:0\:bath, #base_page\:bpayForm\:tabview\:pdttble\:1\:bath{
+#base_page\:bpayForm\:tabview\:pdttble\:0\:bath, #base_page\:bpayForm\:tabview\:pdttble\:1\:bath, #base_page\:bpayForm\:tabview\:pdttble\:2\:bath, #base_page\:bpayForm\:tabview\:pdttble\:3\:bath, #base_page\:bpayForm\:tabview\:pdttble\:4\:bath, #base_page\:bpayForm\:tabview\:pdttble\:5\:bath, #base_page\:bpayForm\:tabview\:pdttble\:6\:bath{
 	display: none;	
 }
 
