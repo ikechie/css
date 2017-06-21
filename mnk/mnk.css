@@ -82,7 +82,7 @@ body, input, select, textarea, button, .ui-content{
 	background-color: #39bb9d;
 	color: white;
 	text-shadow: none; 
-	border: none;
+	border-color: white;
 	border-radius: 0px;   	
 }
 
