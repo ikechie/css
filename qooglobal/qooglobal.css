@@ -81,27 +81,6 @@ body, input, select, textarea, button, .ui-btn {
 	display: none;	
 }
 
-/*add bw guest icon
-#base_page\:bpayForm\:tabview\:pdttble\:0\:j_idt59 > div:nth-child(1){
-	background: url(https://roomboss.github.io/css/qooglobal/user.png) no-repeat left;
-}
-#base_page\:bpayForm\:tabview\:pdttble\:1\:j_idt59 > div:nth-child(1){
-	background: url(https://roomboss.github.io/css/qooglobal/user.png) no-repeat left;
-}
-#base_page\:bpayForm\:tabview\:pdttble\:2\:j_idt59 > div:nth-child(1){
-	background: url(https://roomboss.github.io/css/qooglobal/user.png) no-repeat left;
-}
-#base_page\:bpayForm\:tabview\:pdttble\:3\:j_idt59 > div:nth-child(1){
-	background: url(https://roomboss.github.io/css/qooglobal/user.png) no-repeat left;
-}
-
-#base_page\:bpayForm\:tabview\:pdttble\:4\:j_idt59 > div:nth-child(1){
-	background: url(https://roomboss.github.io/css/qooglobal/user.png) no-repeat left;
-}
-#base_page\:bpayForm\:tabview\:pdttble\:5\:j_idt59 > div:nth-child(1){
-	background: url(https://roomboss.github.io/css/qooglobal/user.png) no-repeat left;
-}*/
-
 /*to grey guest icon*/
 .rb-gicon{	
 	filter: grayscale(100%);
