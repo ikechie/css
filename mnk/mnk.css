@@ -15,7 +15,7 @@
 
 /*, url(https://daks2k3a4ib2z.cloudfront.net/55b094b5ba59036467ba7b63/55e79bcce0f5856916553949_navborder.jpg) *//*, .ui-btn*//*.ui-page.ui-page-theme-a.ui-page-active*/
 
-body, input, select, textarea, button, .ui-content{
+body, input, select, textarea, button, .ui-content, .ui-page-theme-a{
   	font-family: Yu 'Open Sans',sans-serif;
 	font-weight: 100;
  	background: white!important;
