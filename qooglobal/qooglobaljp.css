@@ -9,11 +9,11 @@
 }
 
 .ui-header.ui-bar-inherit {
-	background: url(http://qoohotel.com/wp-content/themes/qoohotel/images/qoohotels.png) no-repeat left;
+	background: url(http://qoohotel.com/wp-content/themes/qoohotel/images/qoo-2.png) no-repeat left;
 	height: 150px;
 	background-size: 304px; 
 	background-color: #F0F0F0!important;
-	background-position: 29.5%;
+	background-position: 25%;
 }
 
 body, input, select, textarea, button, .ui-btn {
