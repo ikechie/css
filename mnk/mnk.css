@@ -83,16 +83,16 @@ body, input, select, textarea, button, .ui-content, .ui-page-theme-a{
 }
 
 .ui-collapsible-heading-toggle.ui-btn.ui-btn-icon-left.ui-icon-minus{
-	background-color: #002e52;
-	color: white;
+	background-color: white;
+	color: #002e52;
 	text-shadow: none; 
 	border: none;
 	border-radius: 0px;   	
 }
 
 .ui-collapsible-heading-toggle.ui-btn.ui-btn-icon-left.ui-icon-plus{
-	background-color: #39bb9d;
-	color: white;
+	background-color: white;
+	color: #39bb9d;
 	text-shadow: none; 
 	border-color: white;
 	border-radius: 0px;   	
