@@ -44,18 +44,19 @@ body, input, select, textarea, button, .ui-content, .ui-page-theme-a{
 	display:none;
 }
 
-
-#base_page\3a resultsform\3a vendorGrid\3a 0\3a j_idt99 > div.ui-panel-m-titlebar.ui-bar.ui-bar-inherit,
+/*#base_page\3a resultsform\3a vendorGrid\3a 0\3a j_idt99 > div.ui-panel-m-titlebar.ui-bar.ui-bar-inherit,
 #base_page\3a resultsform\3a vendorGrid\3a 1\3a j_idt99 > div.ui-panel-m-titlebar.ui-bar.ui-bar-inherit,
 #base_page\3a resultsform\3a vendorGrid\3a 2\3a j_idt99 > div.ui-panel-m-titlebar.ui-bar.ui-bar-inherit,
 #base_page\3a resultsform\3a vendorGrid\3a 3\3a j_idt99 > div.ui-panel-m-titlebar.ui-bar.ui-bar-inherit,
-#base_page\3a resultsform\3a vendorGrid\3a 4\3a j_idt99 > div.ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
+#base_page\3a resultsform\3a vendorGrid\3a 4\3a j_idt99 > div.ui-panel-m-titlebar.ui-bar.ui-bar-inherit*/
+
+.ui-panel-m.ui-corner-all.rbn-offers-panel.ui-hidden-container div.ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
 	background-color: white!important;
-    color: black;
-    text-shadow: none;
-    border-bottom-width: 2px;
-    border-color: #39bb9d;    
-    border-bottom-style: inset;  	
+    	color: black;
+   	text-shadow: none;
+   	border-bottom-width: 2px;
+    	border-color: #39bb9d;    
+    	border-bottom-style: inset;  	
 }
 
 /*bpay header*/
