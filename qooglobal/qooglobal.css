@@ -73,7 +73,8 @@ body, input, select, textarea, button, .ui-btn {
 
 /*remove bath icon*/
 .rb-bicon{
-	display: none;	
+	filter: grayscale(100%);
+	/*display: none;*/	
 }
 
 /*remove bath number*/
@@ -81,7 +82,7 @@ body, input, select, textarea, button, .ui-btn {
 	display: none;	
 }
 
-/*add bw guest icon*/
+/*add bw guest icon
 #base_page\:bpayForm\:tabview\:pdttble\:0\:j_idt59 > div:nth-child(1){
 	background: url(https://roomboss.github.io/css/qooglobal/user.png) no-repeat left;
 }
@@ -100,7 +101,7 @@ body, input, select, textarea, button, .ui-btn {
 }
 #base_page\:bpayForm\:tabview\:pdttble\:5\:j_idt59 > div:nth-child(1){
 	background: url(https://roomboss.github.io/css/qooglobal/user.png) no-repeat left;
-}
+}*/
 
 /*hide guest icon*/
 .rb-gicon{	
