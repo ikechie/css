@@ -8,10 +8,10 @@
 	display: none;
 }
 
-.ui-header.ui-bar-inherit {
-	background: url(https://roomboss.github.io/css/qooglobal/qoo-2.png) no-repeat left;
+.ui-header.ui-bar-inherit {	
+	background: url(https://roomboss.github.io/css/qooglobal/qoohotels.png) no-repeat left;
 	height: 150px;
-	background-size: 150px; 
+	background-size: 110px; 
 	background-color: #F0F0F0!important;
 	background-position: 25%;
 }
