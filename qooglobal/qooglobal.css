@@ -92,9 +92,14 @@ body, input, select, textarea, button, .ui-btn {
 
 /*to grey guest icon*/
 .rb-gicon{
-	background: (https://roomboss.github.io/css/qooglobal/user.png) no-repeat center;
+	visibility:hidden;
 	/*filter: grayscale(100%);*/
 }
+
+#base_page\3a bpayForm\3a tabview\3a pdttble\3a 0\3a gicon{
+	background: (https://roomboss.github.io/css/qooglobal/user.png) no-repeat center;
+}
+
 
 /*remove language toggle*/
 .ui-btn-right{	
