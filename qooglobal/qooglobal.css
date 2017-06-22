@@ -95,7 +95,6 @@ body, input, select, textarea, button, .ui-btn {
 	filter: grayscale(100%);
 }
 
-
 /*remove language toggle*/
 .ui-btn-right{	
 	display:none;
