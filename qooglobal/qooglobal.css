@@ -92,21 +92,22 @@ body, input, select, textarea, button, .ui-btn {
 
 /*to grey guest icon*/
 .rb-gicon{
-	opacity:0;
-	background: url(https://roomboss.github.io/css/qooglobal/user.png) no-repeat left;
-	/*visibility:hidden;*/
-	/*filter: grayscale(100%);*/
+	display: none;
 }
 
-.rb-bricon{	
-	background: url(https://roomboss.github.io/css/qooglobal/user.png) no-repeat -50;	
-}
-
-/*#base_page\:bpayForm\:tabview\:pdttble\:0\:capacity{
+#base_page\:bpayForm\:tabview\:pdttble\:0\:capacity,
+#base_page\:bpayForm\:tabview\:pdttble\:1\:capacity,
+#base_page\:bpayForm\:tabview\:pdttble\:2\:capacity,
+#base_page\:bpayForm\:tabview\:pdttble\:3\:capacity,
+#base_page\:bpayForm\:tabview\:pdttble\:4\:capacity,
+#base_page\:bpayForm\:tabview\:quickbookingtable\:0\:capacity,
+#base_page\:bpayForm\:tabview\:quickbookingtable\:1\:capacity,
+#base_page\:bpayForm\:tabview\:quickbookingtable\:2\:capacity,
+#base_page\:bpayForm\:tabview\:quickbookingtable\:3\:capacity,
+#base_page\:bpayForm\:tabview\:quickbookingtable\:4\:capacity{
 	background: url(https://roomboss.github.io/css/qooglobal/user.png) no-repeat left;
 	padding-left: 25px;
-}*/
-
+}
 
 /*remove language toggle*/
 .ui-btn-right{	
