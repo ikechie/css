@@ -9,7 +9,7 @@
 }
 
 .ui-header.ui-bar-inherit {
-	background: url(http://qoohotel.com/images/qoohotels.png) no-repeat center;
+	background: url(http://qoohotel.com/wp-content/themes/qoohotel/images/qoohotels.png) no-repeat center;
 	height: 150px;
 	background-size: 110px; 
 	background-color: #F0F0F0!important;
@@ -86,15 +86,7 @@ body, input, select, textarea, button, .ui-btn {
 	filter: grayscale(100%);
 }
 
-/*remove line break for in/out dates*/
-#base_page\3a datesPanel > div > div > h4 > br{	
-	display:none;
-}
 
-/*make space between for in/out dates*/
-#base_page\3a datesPanel > div > div > h4 > span:nth-child(3){	
-	margin-left:10px;
-}
 /*remove language toggle*/
 .ui-btn-right{	
 	display:none;
