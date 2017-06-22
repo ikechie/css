@@ -102,11 +102,10 @@ body, input, select, textarea, button, .ui-btn {
 	background: url(https://roomboss.github.io/css/qooglobal/user.png) no-repeat -50;	
 }
 
-#base_page\:bpayForm\:tabview\:pdttble\:0\:capacity{
+/*#base_page\:bpayForm\:tabview\:pdttble\:0\:capacity{
 	background: url(https://roomboss.github.io/css/qooglobal/user.png) no-repeat left;
 }*/
 
-.rb-avail-table .ui-column-header, .rb-avail-table tr.ui-table-row td
 
 /*remove language toggle*/
 .ui-btn-right{	
