@@ -93,7 +93,7 @@ body, input, select, textarea, button, .ui-btn {
 /*to grey guest icon*/
 .rb-gicon{
 	opacity:0;
-	background: (https://roomboss.github.io/css/qooglobal/user.png) no-repeat left;
+	background: url(https://roomboss.github.io/css/qooglobal/user.png) no-repeat left;
 	/*visibility:hidden;*/
 	/*filter: grayscale(100%);*/
 }
