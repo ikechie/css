@@ -81,10 +81,12 @@ body, input, select, textarea, button, .ui-btn {
 #base_page\:bpayForm\:tabview\:pdttble\:1\:bath, 
 #base_page\:bpayForm\:tabview\:pdttble\:2\:bath, 
 #base_page\:bpayForm\:tabview\:pdttble\:3\:bath, 
-#base_page\:bpayForm\:tabview\:pdttble\:4\:bath, 
-#base_page\:bpayForm\:tabview\:pdttble\:5\:bath, 
-#base_page\:bpayForm\:tabview\:pdttble\:6\:bath,
-#base_page\:bpayForm\:tabview\:quickbookingtable\:0\:bath{
+#base_page\:bpayForm\:tabview\:pdttble\:4\:bath,
+#base_page\:bpayForm\:tabview\:quickbookingtable\:0\:bath,
+#base_page\:bpayForm\:tabview\:quickbookingtable\:1\:bath,
+#base_page\:bpayForm\:tabview\:quickbookingtable\:2\:bath,
+#base_page\:bpayForm\:tabview\:quickbookingtable\:3\:bath,
+#base_page\:bpayForm\:tabview\:quickbookingtable\:4\:bath{
 	display: none;	
 }
 
