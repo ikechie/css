@@ -91,8 +91,9 @@ body, input, select, textarea, button, .ui-btn {
 }
 
 /*to grey guest icon*/
-.rb-gicon{	
-	filter: grayscale(100%);
+.rb-gicon{
+	background: (https://roomboss.github.io/css/qooglobal/user.png) no-repeat center;
+	/*filter: grayscale(100%);*/
 }
 
 /*remove language toggle*/
