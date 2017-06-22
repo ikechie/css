@@ -96,7 +96,7 @@ body, input, select, textarea, button, .ui-btn {
 	/*filter: grayscale(100%);*/
 }
 /*div.ui-block-a img#base_page:bpayForm:tabview:pdttble:0:gicon.rb-gicon*/
-#base_page\3a bpayForm\3a tabview\3a pdttble\3a 0\3a{
+#base_page:bpayForm:tabview:pdttble{
 	background: (https://roomboss.github.io/css/qooglobal/user.png) no-repeat center;
 }
 
