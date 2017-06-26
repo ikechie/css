@@ -1,11 +1,14 @@
 @import url(http://fast.fonts.net/cssapi/aaf65650-9663-4d95-8ef1-5108d077a9a5.css);body,.ui-collapsible-themed-content:not(.ui-collapsible-collapsed)>.ui-collapsible-heading a,.ui-collapsible-inset .ui-collapsible-heading .ui-btn{
-font-family:'Avenir Next W01',sans-serif;
-background:#d5b476;text-shadow:none;
+  font-family:'Avenir Next W01',sans-serif;
+  background:#d5b476;
+  text-shadow:none;
 }
 
 .ui-header.ui-bar-inherit{
-background:#1E252B url('http://www.ayaniseko.com/assets/img/logo.png') no-repeat center;
-background-size:220px;border:none;height:145px;
+  background:#1E252B url('http://www.ayaniseko.com/assets/img/logo.png') no-repeat center;
+  background-size:220px;
+  border:none;
+  height:145px;
 }
 
 .ui-header.ui-bar-inherit h1.ui-title{
@@ -14,4 +17,10 @@ display:none;
 
 .ui-page-theme-a .ui-btn:focus,html .ui-bar-a .ui-btn:focus,html .ui-body-a .ui-btn:focus,html body .ui-group-theme-a .ui-btn:focus,html head+body .ui-btn.ui-btn-a:focus,.ui-page-theme-a .ui-focus,html .ui-bar-a .ui-focus,html .ui-body-a .ui-focus,html body .ui-group-theme-a .ui-focus,html head+body .ui-btn-a.ui-focus,html head+body .ui-body-a.ui-focus{
 box-shadow:0 0 12px #916e2c;
+}
+
+ui-panel-m-titlebar.ui-bar.ui-bar-inherit,{
+  font-family:'Avenir Next W01',sans-serif;
+  background:#d5b476;
+  text-shadow:none;
 }
