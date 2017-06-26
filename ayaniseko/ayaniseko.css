@@ -19,7 +19,7 @@ display:none;
 box-shadow:0 0 12px #916e2c;
 }
 
-ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
+.ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
   font-family:'Avenir Next W01',sans-serif;
   background:#d5b476;
   text-shadow:none;
