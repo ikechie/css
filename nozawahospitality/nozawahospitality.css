@@ -16,13 +16,13 @@
 /* colour on header/title bars */
 .ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
 	background:url("https://roomboss.github.io/css/nozawahospitality/banner.jpg") no-repeat 30%;
-	/*background: linear-gradient(to top,black,grey);*/
 	color: black;
 	text-shadow: none;	
 }
 
 /*color and square more info button*/
 .rbn-more-info-button.ui-btn.ui-icon-arrow-r.ui-btn-icon-left.ui-btn-inline.ui-shadow.ui-corner-all {
+	backround: none;
 	background-color: #39bb9d!important;
 	color: white;
 	text-shadow: none; 
