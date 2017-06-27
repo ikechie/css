@@ -22,7 +22,7 @@
 
 /*color and square more info button*/
 .rbn-more-info-button.ui-btn.ui-icon-arrow-r.ui-btn-icon-left.ui-btn-inline.ui-shadow.ui-corner-all {
-	background-color: #39bb9d!important;
+	background-color: #3b6f97!important;
 	color: white;
 	text-shadow: none; 
 	border: none;
@@ -33,20 +33,20 @@
 .ui-panel-m.ui-corner-all.rbn-offers-panel.ui-hidden-container div.ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
 	background:none;
 	background-color: white!important;
-    	color: #002e52;
+    	color: #3b6f97;
    	text-shadow: none;
    	border-bottom-width: 2px;
 	border-top-width: 0px;
 	border-left-width: 0px;
 	border-right-width: 0px;
-    	border-color: #39bb9d;    
+    	border-color: #3b6f97;    
     	border-bottom-style: inset;  	
 }
 
 /*expanadble areas on bpay and yourbooking*/
 .ui-collapsible-heading-toggle.ui-btn.ui-btn-icon-left.ui-icon-minus{
 	text-shadow: none; 
-	border-color: #002e52;
+	border-color: #3b6f97;
 	border-radius: 0px;
 	border-width: 2px;
 }
