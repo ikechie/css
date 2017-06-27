@@ -6,6 +6,7 @@
 
 .ui-panel-m-content.ui-body.ui-body-inherit{
 	background-color: #F0F0F0!important;
+	border: none;
 	/*visibility:hidden;
 	display: none;*/
 }
