@@ -67,7 +67,7 @@
 
 /*your booking page footer*/
 .ui-footer.ui-bar-inherit{
-	background: url("https://roomboss.github.io/css/nozawahospitality/top2.jpg") cover;
+	background: url("https://roomboss.github.io/css/nozawahospitality/top2.jpg") repeat;
 	color: White!important;
 	text-shadow: none!important;
 	border:none!important;
