@@ -16,14 +16,14 @@
 
 /* colour on header/title bars */
 .ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
-	background:url("http://www.nozawahospitality.com/wp-content/uploads/2013/06/323726_180670808710180_361002323_o.jpg") no-repeat center;
+	background:url("http://www.nozawahospitality.com/wp-content/uploads/2013/06/323726_180670808710180_361002323_o.jpg") no-repeat 40%;
 	/*background: linear-gradient(to top,black,grey);*/
 	color: black;
 	text-shadow: none;	
 }
 
 .ui-column-header{
-	background:url("http://www.nozawahospitality.com/wp-content/uploads/2013/06/323726_180670808710180_361002323_o.jpg") no-repeat center;
+	background:url("http://www.nozawahospitality.com/wp-content/uploads/2013/06/323726_180670808710180_361002323_o.jpg") no-repeat 40%;
 	/*background: linear-gradient(to top,white,white);*/
 	color: black;
 	/*background-color: #666;
@@ -32,7 +32,7 @@
 }
 
 .ui-panel-m-content.ui-body.ui-body-inherit .ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
-	background:url("http://www.nozawahospitality.com/wp-content/uploads/2013/06/323726_180670808710180_361002323_o.jpg") no-repeat center;
+	background:url("http://www.nozawahospitality.com/wp-content/uploads/2013/06/323726_180670808710180_361002323_o.jpg") no-repeat 40%;
 	/*background: linear-gradient(to top,white,white);*/
 	color: black;
 	/*background-color: #666;
