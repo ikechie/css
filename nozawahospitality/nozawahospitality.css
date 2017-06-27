@@ -22,7 +22,6 @@
 
 /*color and square more info button*/
 .rbn-more-info-button.ui-btn.ui-icon-arrow-r.ui-btn-icon-left.ui-btn-inline.ui-shadow.ui-corner-all {
-	backround: none;
 	background-color: #39bb9d!important;
 	color: white;
 	text-shadow: none; 
@@ -32,6 +31,7 @@
 
 /*Available Accommodation Options*/
 .ui-panel-m.ui-corner-all.rbn-offers-panel.ui-hidden-container div.ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
+	background:none;
 	background-color: white!important;
     	color: #002e52;
    	text-shadow: none;
@@ -40,29 +40,9 @@
     	border-bottom-style: inset;  	
 }
 
-
-
-/*.ui-column-header{
-	background:url("http://www.nozawahospitality.com/wp-content/uploads/2013/06/323726_180670808710180_361002323_o.jpg") no-repeat 40%;
-	/*background: linear-gradient(to top,white,white);
-	color: black;
-	/*background-color: #666;
-	color: white;
-	text-shadow: none;	
-}*/
-
-/*.ui-panel-m-content.ui-body.ui-body-inherit .ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
-	background:url("http://www.nozawahospitality.com/wp-content/uploads/2013/06/323726_180670808710180_361002323_o.jpg") no-repeat 40%;
-	/*background: linear-gradient(to top,white,white);
-	color: black;
-	/*background-color: #666;
-	color: white;
-	text-shadow: none;	
-}*/
-
-/*your booking bars*//*
+/*your booking bars*/
 #base_page\3a postab_head > tr, #base_page\3a ttab_head > tr{
-	background: url("http://www.nozawahospitality.com/wp-content/uploads/2013/06/323726_180670808710180_361002323_o.jpg") no-repeat center;
+	background: url("https://roomboss.github.io/css/nozawahospitality/banner.jpg") no-repeat center;
 	color: Black;
 	text-shadow: none; 	
 }*/
