@@ -38,7 +38,7 @@
 
 /*your booking bars*/
 #base_page\3a postab_head > tr, #base_page\3a ttab_head > tr{
-	background: url("http://www.nozawahospitality.com/wp-content/uploads/2013/06/461970_220640388046555_1988762427_o.jpg") no-repeat center middle;
+	background: url("http://www.nozawahospitality.com/wp-content/uploads/2013/06/461970_220640388046555_1988762427_o.jpg") no-repeat center;
 	color: Black;
 	text-shadow: none; 	
 }
