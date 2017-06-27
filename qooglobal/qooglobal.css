@@ -112,7 +112,9 @@ body, input, select, textarea, button, .ui-btn {
 	padding-left: 25px;
 }
 
-/*remove language toggle*/
-.ui-btn-right{	
+/*remove language toggle
+.ui-btn-right*/
+
+#base_page:locform:languageSelect{	
 	display:none;
 }
