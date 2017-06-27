@@ -115,6 +115,6 @@ body, input, select, textarea, button, .ui-btn {
 /*remove language toggle
 .ui-btn-right*/
 
-#base_page:locform.ui-btn-right\table\tbody\tr\td{	
+#base_page\:locform.ui-btn-right\table\tbody\tr\td{	
 	display:none;
 }
