@@ -23,6 +23,27 @@
 	text-shadow: none;	
 }
 
+/*color and square more info button*/
+.rbn-more-info-button.ui-btn.ui-icon-arrow-r.ui-btn-icon-left.ui-btn-inline.ui-shadow.ui-corner-all {
+	background-color: #39bb9d!important;
+	color: white;
+	text-shadow: none; 
+	border: none;
+	border-radius: 0px;   	
+}
+
+/*Available Accommodation Options*/
+.ui-panel-m.ui-corner-all.rbn-offers-panel.ui-hidden-container div.ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
+	background-color: white!important;
+    	color: #002e52;
+   	text-shadow: none;
+   	border-bottom-width: 2px;
+    	border-color: #39bb9d;    
+    	border-bottom-style: inset;  	
+}
+
+
+
 /*.ui-column-header{
 	background:url("http://www.nozawahospitality.com/wp-content/uploads/2013/06/323726_180670808710180_361002323_o.jpg") no-repeat 40%;
 	/*background: linear-gradient(to top,white,white);
