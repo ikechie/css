@@ -16,7 +16,8 @@
 
 /* colour on header/title bars */
 .ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
-	background: linear-gradient(to top,black,grey);	
+	background:url("http://www.nozawahospitality.com/wp-content/uploads/2013/06/2013-01-12-07.13.45.jpg") no-repeat center;
+	/*background: linear-gradient(to top,black,grey);*/
 	color: white;
 	text-shadow: none;	
 }
