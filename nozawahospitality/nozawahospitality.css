@@ -36,6 +36,9 @@
     	color: #002e52;
    	text-shadow: none;
    	border-bottom-width: 2px;
+	border-top-width: 0px;
+	border-left-width: 0px;
+	border-right-width: 0px;
     	border-color: #39bb9d;    
     	border-bottom-style: inset;  	
 }
