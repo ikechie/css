@@ -35,3 +35,11 @@
 	color: white;*/
 	text-shadow: none;	
 }
+
+/*your booking page footer*/
+.ui-footer.ui-bar-inherit{
+	background-color: Black!important;
+	color: white!important;
+	text-shadow: none!important;
+	border:none!important;
+}
