@@ -1,13 +1,13 @@
 .ui-title{
 	color: white!important;
 	text-shadow: none!important;
-	margin-top: 45px!important;
+	margin-top: 40px!important;
 	font-size: 20px!important;	
 }
 
 .ui-header.ui-bar-inherit {
 	background: url(https://holidayniseko.com/sites/all/themes/hnresponsive5.1/img/logo_header.png) 15% 25% no-repeat;
-    	height: 150px;    
+    	height: 140px;    
    	background-color: rgb(0, 132, 61);     
 }
 
