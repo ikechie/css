@@ -23,7 +23,7 @@
 }
 
 .ui-column-header{
-	background: linear-gradient(to top,grey,white);
+	background: linear-gradient(to top,white,white);
 	color: black;
 	/*background-color: #666;
 	color: white;*/
@@ -31,7 +31,7 @@
 }
 
 .ui-panel-m-content.ui-body.ui-body-inherit .ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
-	background: linear-gradient(to top,grey,white);
+	background: linear-gradient(to top,white,white);
 	color: black;
 	/*background-color: #666;
 	color: white;*/
