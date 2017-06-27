@@ -33,7 +33,7 @@
 .ui-panel-m.ui-corner-all.rbn-offers-panel.ui-hidden-container div.ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
 	background:none;
 	background-color: white!important;
-    	color: #3b6f97;
+    	color: Black;
    	text-shadow: none;
    	border-bottom-width: 2px;
 	border-top-width: 0px;
@@ -46,14 +46,14 @@
 /*expanadble areas on bpay and yourbooking*/
 .ui-collapsible-heading-toggle.ui-btn.ui-btn-icon-left.ui-icon-minus{
 	text-shadow: none; 
-	border-color: #3b6f97;
+	border-color: #39bb9d;
 	border-radius: 0px;
 	border-width: 2px;
 }
 
 .ui-collapsible-heading-toggle.ui-btn.ui-btn-icon-left.ui-icon-plus{
 	text-shadow: none; 
-	border-color: #39bb9d;
+	border-color: #3b6f97;
 	border-radius: 0px; 
 	border-width: 2px;
 }
