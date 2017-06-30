@@ -30,11 +30,3 @@ box-shadow:0 0 12px #916e2c;
   background:#d5b476;
   text-shadow:none; 	
 }
-
-/*page footer*/
-.rbn-footer{
-  font-family:'Avenir Next W01',sans-serif!important;
-  background:grey!important;
-  text-shadow:none!important;	
-  color: white;
-}
