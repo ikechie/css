@@ -4,8 +4,8 @@
 }
 
 .ui-panel-m-content.ui-body.ui-body-inherit{
-	visibility:hidden;
-	display: none;
+	background-color: #F0F0F0!important;
+	border: none;
 }
 
 .ui-header.ui-bar-inherit {	
@@ -76,25 +76,45 @@ body, input, select, textarea, button, .ui-btn {
 	display: none;	
 }
 
+/*remove vendor desc*/
+.rbn_ven_descr{
+	display: none;
+}
+
 /*remove bath number*/
-#base_page\:bpayForm\:tabview\:pdttble\:0\:bath, #base_page\:bpayForm\:tabview\:pdttble\:1\:bath, #base_page\:bpayForm\:tabview\:pdttble\:2\:bath, #base_page\:bpayForm\:tabview\:pdttble\:3\:bath, #base_page\:bpayForm\:tabview\:pdttble\:4\:bath, #base_page\:bpayForm\:tabview\:pdttble\:5\:bath, #base_page\:bpayForm\:tabview\:pdttble\:6\:bath{
+#base_page\:bpayForm\:tabview\:pdttble\:0\:bath, 
+#base_page\:bpayForm\:tabview\:pdttble\:1\:bath, 
+#base_page\:bpayForm\:tabview\:pdttble\:2\:bath, 
+#base_page\:bpayForm\:tabview\:pdttble\:3\:bath, 
+#base_page\:bpayForm\:tabview\:pdttble\:4\:bath,
+#base_page\:bpayForm\:tabview\:quickbookingtable\:0\:bath,
+#base_page\:bpayForm\:tabview\:quickbookingtable\:1\:bath,
+#base_page\:bpayForm\:tabview\:quickbookingtable\:2\:bath,
+#base_page\:bpayForm\:tabview\:quickbookingtable\:3\:bath,
+#base_page\:bpayForm\:tabview\:quickbookingtable\:4\:bath{
 	display: none;	
 }
 
+
 /*to grey guest icon*/
-.rb-gicon{	
-	filter: grayscale(100%);
+.rb-gicon{
+	display: none;
 }
 
-/*remove line break for in/out dates*/
-#base_page\3a datesPanel > div > div > h4 > br{	
-	display:none;
+#base_page\:bpayForm\:tabview\:pdttble\:0\:capacity,
+#base_page\:bpayForm\:tabview\:pdttble\:1\:capacity,
+#base_page\:bpayForm\:tabview\:pdttble\:2\:capacity,
+#base_page\:bpayForm\:tabview\:pdttble\:3\:capacity,
+#base_page\:bpayForm\:tabview\:pdttble\:4\:capacity,
+#base_page\:bpayForm\:tabview\:quickbookingtable\:0\:capacity,
+#base_page\:bpayForm\:tabview\:quickbookingtable\:1\:capacity,
+#base_page\:bpayForm\:tabview\:quickbookingtable\:2\:capacity,
+#base_page\:bpayForm\:tabview\:quickbookingtable\:3\:capacity,
+#base_page\:bpayForm\:tabview\:quickbookingtable\:4\:capacity{
+	background: url(https://roomboss.github.io/css/qooglobal/user.png) no-repeat left;
+	padding-left: 25px;
 }
 
-/*make space between for in/out dates*/
-#base_page\3a datesPanel > div > div > h4 > span:nth-child(3){	
-	margin-left:10px;
-}
 
 /* hide english name*/
 
@@ -108,6 +128,6 @@ body, input, select, textarea, button, .ui-btn {
 }
 
 /*remove language toggle*/
-.ui-btn-right{	
+#base_page\3a locform\3a languageSelect{	
 	display:none;
 }
