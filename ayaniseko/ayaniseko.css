@@ -24,3 +24,16 @@ box-shadow:0 0 12px #916e2c;
   background:#d5b476;
   text-shadow:none;
 }
+
+.ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
+  font-family:'Avenir Next W01',sans-serif;
+  background:#d5b476;
+  text-shadow:none; 	
+}
+
+/*page footer*/
+.rbn-footer{
+  font-family:'Avenir Next W01',sans-serif!important;
+  background:#d5b476!important;
+  text-shadow:none!important;	
+}
