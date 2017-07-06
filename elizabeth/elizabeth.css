@@ -6,7 +6,8 @@
 
 /*add logo, blue and green bars*/
 .ui-header.ui-bar-inherit {
-	background: url(http://elizabeth.augustinfotechteam.com/wp-content/uploads/2017/05/Elizabeth_Logo_white-1-300x138.png) no-repeat, url(http://elizabeth.augustinfotechteam.com/wp-content/uploads/2017/05/2010-12-28-10.58.36-1.jpg) no-repeat;
+	padding-top: 100px;
+	background: url(http://elizabeth.augustinfotechteam.com/wp-content/uploads/2017/05/Elizabeth_Logo_white-1-300x138.png) center no-repeat, url(http://elizabeth.augustinfotechteam.com/wp-content/uploads/2017/05/2010-12-28-10.58.36-1.jpg) no-repeat;
     	height: 115px;
     	background-size: 160px, 1999px;    	
 }
