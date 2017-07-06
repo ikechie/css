@@ -6,12 +6,9 @@
 
 /*add logo, blue and green bars*/
 .ui-header.ui-bar-inherit {
-	background: url(http://elizabeth.augustinfotechteam.com/wp-content/uploads/2017/05/2010-12-28-10.58.36-1.jpg) 500px no-repeat, url(https://daks2k3a4ib2z.cloudfront.net/55b094b5ba59036467ba7b63/55e79bcce0f5856916553949_navborder.jpg) no-repeat center bottom;
+	background: url(http://elizabeth.augustinfotechteam.com/wp-content/uploads/2017/05/Elizabeth_Logo_white-1-300x138.png) 500px no-repeat, url(http://elizabeth.augustinfotechteam.com/wp-content/uploads/2017/05/2010-12-28-10.58.36-1.jpg) no-repeat center bottom;
     	height: 115px;
-    	background-size: 160px, 1999px;
-    	border-top-width: 32px;
-    	border-top-color: #002e52;
-    	border-bottom-width: 0px;
+    	background-size: 160px, 1999px;    	
 }
 
 /*page white and font*/
