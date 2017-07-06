@@ -6,7 +6,7 @@
 
 /*add logo, blue and green bars*/
 .ui-header.ui-bar-inherit {
-	background: url(http://elizabeth.augustinfotechteam.com/wp-content/uploads/2017/05/Elizabeth_Logo_white-1-300x138.png) 500px no-repeat, url(http://elizabeth.augustinfotechteam.com/wp-content/uploads/2017/05/2010-12-28-10.58.36-1.jpg) no-repeat center bottom;
+	background: url(http://elizabeth.augustinfotechteam.com/wp-content/uploads/2017/05/Elizabeth_Logo_white-1-300x138.png) no-repeat, url(http://elizabeth.augustinfotechteam.com/wp-content/uploads/2017/05/2010-12-28-10.58.36-1.jpg) no-repeat;
     	height: 115px;
     	background-size: 160px, 1999px;    	
 }
@@ -49,23 +49,6 @@ body, input, select, textarea, button, .ui-content, .ui-page-theme-a{
     	border-bottom-style: inset;  	
 }
 
-/*bpay header*/
-#base_page\3a descPanel > div.ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
-	background: url('https://daks2k3a4ib2z.cloudfront.net/55b094b5ba59036467ba7b63/58215dc0274480cb21cae2ed_Countryresort_landscape.png') no-repeat;
-	background-position: 50%;
-	height: 100px;
-}
-
-/*bpay emphasise unit 1st screen*/
-.ui-table-row.rb-selected-rt-sd {	
-	border: 3px solid green;
-	background-color: #edfeeb;
-}
-/*bpay emphasise unit 2nd screen*/
-.ui-table-row.rb-selected-rt-sr{	
-	border: 3px solid green;
-	background-color: #edfeeb;
-}
 
 
 /*bpay green line*/
