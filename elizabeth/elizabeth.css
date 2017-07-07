@@ -23,7 +23,7 @@
 body, input, select, textarea, button, .ui-content, .ui-page-theme-a{
   	font-family: Montserrat, sans-serif;
 	font-weight: 100;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
  	background: white!important;
 	color: black;
 	text-shadow: none;
@@ -40,7 +40,8 @@ body, input, select, textarea, button, .ui-content, .ui-page-theme-a{
 
 /*color and square titlebars*/
 .ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
-	background-color: #39bb9d;
+	background: url(http://elizabeth.augustinfotechteam.com/wp-content/uploads/2017/05/IMG_0093-1920x850.jpg) no-repeat;
+	/*background-color: #39bb9d;*/
 	color: white;
 	text-shadow: none; 
 	border: none;
