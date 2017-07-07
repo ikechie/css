@@ -89,7 +89,7 @@ body, input, select, textarea, button, .ui-content, .ui-page-theme-a{
 
 /*your booking bars*/
 #base_page\3a postab_head > tr, #base_page\3a ttab_head > tr{
-	background-color: #39bb9d;
+	background: url(http://elizabeth.augustinfotechteam.com/wp-content/uploads/2017/05/IMG_0093-1920x850.jpg) no-repeat;
 	color: white;
 	text-shadow: none; 
 	border: none;
