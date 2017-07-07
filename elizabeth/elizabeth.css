@@ -13,6 +13,11 @@
 	border: none;
     	/*background-size: 160px, 1999px;    	*/
 }
+/*remove vendor image and description*/
+.ui-panel-m ui-corner-all.rbn-vendor-panel{
+	display: none;
+	visibility: hidden;
+}
 
 /*page white and font*/
 body, input, select, textarea, button, .ui-content, .ui-page-theme-a{
