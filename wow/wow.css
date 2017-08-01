@@ -1,0 +1,15 @@
+/*remove title*/
+.ui-title{
+	display: none;
+	visibility: hidden;
+}
+
+/*change header colour and size*/
+.ui-header.ui-bar-inherit {
+	background-color:rgba(86, 148, 205, 1);
+	height: 43px;
+	border-bottom-width:1px;
+	border-top-width:0px;
+	border-color:black;
+    	
+}
