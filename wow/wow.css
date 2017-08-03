@@ -86,3 +86,18 @@ body, input, select, textarea, button, .ui-content, .ui-page-theme-a{
     	border-color: rgba(86, 148, 205, 1);    
     	border-bottom-style: inset;  	
 }
+
+/*color more info button*/
+.rbn-more-info-button.ui-btn.ui-icon-arrow-r.ui-btn-icon-left.ui-btn-inline.ui-shadow.ui-corner-all {
+	background-color: orange!important;
+	color: white;
+	text-shadow: none; 
+	border: none;	  	
+}
+
+/*Your Booking non conf Red*/
+.rb-notconfbook {
+    color: red;
+    text-transform: uppercase;
+    font-weight: bold;
+}
