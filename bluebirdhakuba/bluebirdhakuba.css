@@ -1,0 +1,29 @@
+
+.ui-title{
+	color: white!important;
+	text-shadow: none!important;
+	margin-top: 60px!important;
+	font-size: 20px!important;	
+}
+
+.ui-header.ui-bar-inherit {
+	background: url(http://static1.squarespace.com/static/533e85b2e4b00493c4fd7d6a/t/55a8d141e4b0bdd6d6683a11/1491176500037/?format=1500w) 10% 20% no-repeat, url(https://static1.squarespace.com/static/533e85b2e4b00493c4fd7d6a/t/56e9130d2fe131bddbd21975/1458115342159/hakuba+accommodation.jpg) repeat;
+    height: 140px;    
+   	/*background-color: Black;*/     
+}
+
+.ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
+	background: url(https://static1.squarespace.com/static/533e85b2e4b00493c4fd7d6a/t/56e9130d2fe131bddbd21975/1458115342159/hakuba+accommodation.jpg) repeat;
+	color: white;
+	text-shadow: none; 
+	border: none;
+	border-radius: 0px;   	
+}
+
+/*page footer*/
+.rbn-footer{
+	background: url(https://static1.squarespace.com/static/533e85b2e4b00493c4fd7d6a/t/56e9130d2fe131bddbd21975/1458115342159/hakuba+accommodation.jpg) repeat;
+	color: grey!important;
+	text-shadow: none!important;
+	border:none!important;
+}
