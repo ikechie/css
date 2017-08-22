@@ -26,3 +26,8 @@
 	text-shadow: none!important;
 	border:none!important;
 }
+
+
+base_page\:descPanel{
+	display:none;
+}
