@@ -32,7 +32,8 @@
 #base_page\:datesPanel,
 #base_page\:bpayForm\:tabview\:pdttble_head,
 .ui-collapsible-heading.ui-collapsible-heading-collapsed,
-.ui-collapsible.ui-collapsible-inset.ui-corner-all.ui-collapsible-themed-content.ui-collapsible-collapsed{
+.ui-collapsible.ui-collapsible-inset.ui-corner-all.ui-collapsible-themed-content.ui-collapsible-collapsed,
+.ui-collapsible-heading-toggle.ui-btn.ui-btn-icon-left.ui-icon-minus{
 	display:none;
 }
 
@@ -45,7 +46,6 @@
 #base_page\:bpayForm\:tabview\:pdttble\:0\:bath,
 #base_page\:bpayForm\:tabview\:pdttble\:0\:nooffer,
 #base_page\:bpayForm\:tabview\:pdttble\:0\:rack,
-#base_page\:bpayForm\:tabview\:pdttble\:0\:offer,
-.ui-collapsible-heading-toggle.ui-btn.ui-btn-icon-left.ui-icon-minus{
+#base_page\:bpayForm\:tabview\:pdttble\:0\:offer{
 	display:none;
 }
