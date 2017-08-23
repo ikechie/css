@@ -33,7 +33,8 @@
 #base_page\:bpayForm\:tabview\:pdttble_head,
 .ui-collapsible-heading.ui-collapsible-heading-collapsed,
 .ui-collapsible.ui-collapsible-inset.ui-corner-all.ui-collapsible-themed-content.ui-collapsible-collapsed,
-.ui-collapsible-heading-toggle.ui-btn.ui-btn-icon-left.ui-icon-minus{
+.ui-collapsible-heading-toggle.ui-btn.ui-btn-icon-left.ui-icon-minus,
+.ui-grid-c.ui-responsive{
 	display:none;
 }
 
