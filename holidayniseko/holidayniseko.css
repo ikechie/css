@@ -45,6 +45,7 @@
 #base_page\:bpayForm\:tabview\:pdttble\:0\:bath,
 #base_page\:bpayForm\:tabview\:pdttble\:0\:nooffer,
 #base_page\:bpayForm\:tabview\:pdttble\:0\:rack,
-#base_page\:bpayForm\:tabview\:pdttble\:0\:offer{
+#base_page\:bpayForm\:tabview\:pdttble\:0\:offer,
+.ui-collapsible-heading-toggle.ui-btn.ui-btn-icon-left.ui-icon-minus{
 	display:none;
 }
