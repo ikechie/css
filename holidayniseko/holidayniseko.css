@@ -27,12 +27,18 @@
 	border:none!important;
 }
 
-
-#base_page\:descPanel{
+/*for bpay widgt in iframe*/
+#base_page\:descPanel,
+#base_page\:datesPanel{
 	display:none;
 }
 
-#base_page\:bpayForm\:tabview\:pdttble\:0\:description{
+#base_page\:bpayForm\:tabview\:pdttble\:0\:description,
+#base_page:bpayForm\:tabview\:pdttble\:0\:gicon,
+#base_page\:bpayForm\:tabview\:pdttble\:0\:capacity,
+#base_page\:bpayForm\:tabview\:pdttble\:0\:bricon,
+#base_page\:bpayForm\:tabview:pdttble\:0\:bedroom,
+#base_page\:bpayForm\:tabview:pdttble\:0\:bicon,
+#base_page\:bpayForm\:tabview:pdttble\:0\:bath{
 	display:none;
 }
-
