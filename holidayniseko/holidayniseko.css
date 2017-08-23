@@ -29,7 +29,8 @@
 
 /*for bpay widgt in iframe*/
 #base_page\:descPanel,
-#base_page\:datesPanel{
+#base_page\:datesPanel,
+#base_page\:bpayForm\:tabview\:pdttble_head{
 	display:none;
 }
 
