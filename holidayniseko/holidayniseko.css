@@ -30,7 +30,9 @@
 /*for bpay widgt in iframe*/
 #base_page\:descPanel,
 #base_page\:datesPanel,
-#base_page\:bpayForm\:tabview\:pdttble_head{
+#base_page\:bpayForm\:tabview\:pdttble_head,
+.ui-collapsible-heading.ui-collapsible-heading-collapsed,
+.ui-collapsible.ui-collapsible-inset.ui-corner-all.ui-collapsible-themed-content.ui-collapsible-collapsed{
 	display:none;
 }
 
