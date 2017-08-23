@@ -40,6 +40,7 @@
 #base_page\:bpayForm\:tabview\:pdttble\:0\:bricon,
 #base_page\:bpayForm\:tabview\:pdttble\:0\:bedroom,
 #base_page\:bpayForm\:tabview\:pdttble\:0\:bicon,
-#base_page\:bpayForm\:tabview\:pdttble\:0\:bath{
+#base_page\:bpayForm\:tabview\:pdttble\:0\:bath,
+base_page\:bpayForm\:tabview\:pdttble\:0\:nooffer,{
 	display:none;
 }
