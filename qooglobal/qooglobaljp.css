@@ -89,11 +89,13 @@ body, input, select, textarea, button, .ui-btn {
 #base_page\:bpayForm\:tabview\:pdttble\:2\:bath, 
 #base_page\:bpayForm\:tabview\:pdttble\:3\:bath, 
 #base_page\:bpayForm\:tabview\:pdttble\:4\:bath,
+#base_page\:bpayForm\:tabview\:pdttble\:5\:bath,
 #base_page\:bpayForm\:tabview\:quickbookingtable\:0\:bath,
 #base_page\:bpayForm\:tabview\:quickbookingtable\:1\:bath,
 #base_page\:bpayForm\:tabview\:quickbookingtable\:2\:bath,
 #base_page\:bpayForm\:tabview\:quickbookingtable\:3\:bath,
-#base_page\:bpayForm\:tabview\:quickbookingtable\:4\:bath{
+#base_page\:bpayForm\:tabview\:quickbookingtable\:4\:bath,
+#base_page\:bpayForm\:tabview\:quickbookingtable\:5\:bath{
 	display: none;	
 }
 
@@ -108,11 +110,13 @@ body, input, select, textarea, button, .ui-btn {
 #base_page\:bpayForm\:tabview\:pdttble\:2\:capacity,
 #base_page\:bpayForm\:tabview\:pdttble\:3\:capacity,
 #base_page\:bpayForm\:tabview\:pdttble\:4\:capacity,
+#base_page\:bpayForm\:tabview\:pdttble\:5\:capacity,
 #base_page\:bpayForm\:tabview\:quickbookingtable\:0\:capacity,
 #base_page\:bpayForm\:tabview\:quickbookingtable\:1\:capacity,
 #base_page\:bpayForm\:tabview\:quickbookingtable\:2\:capacity,
 #base_page\:bpayForm\:tabview\:quickbookingtable\:3\:capacity,
-#base_page\:bpayForm\:tabview\:quickbookingtable\:4\:capacity{
+#base_page\:bpayForm\:tabview\:quickbookingtable\:4\:capacity,
+#base_page\:bpayForm\:tabview\:quickbookingtable\:5\:capacity{
 	background: url(https://roomboss.github.io/css/qooglobal/user.png) no-repeat left;
 	padding-left: 25px;
 }
