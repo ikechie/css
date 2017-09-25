@@ -24,7 +24,7 @@ body, input, select, textarea, button, .ui-content, .ui-page-theme-a{
 
 /*color and square more info button*/
 .rbn-more-info-button.ui-btn.ui-icon-arrow-r.ui-btn-icon-left.ui-btn-inline.ui-shadow.ui-corner-all {
-	background-color: Yellow!important;
+	background-color: #febb02!important;
 	color: Blue;
 	text-shadow: none; 
 	border: none;
@@ -33,7 +33,7 @@ body, input, select, textarea, button, .ui-content, .ui-page-theme-a{
 
 /*color and square titlebars*/
 .ui-panel-m-titlebar.ui-bar.ui-bar-inherit{
-	background-color: #39bb9d;
+	background-color: #febb02;
 	color: white;
 	text-shadow: none; 
 	border: none;
@@ -47,7 +47,7 @@ body, input, select, textarea, button, .ui-content, .ui-page-theme-a{
     	color: #002e52;
    	text-shadow: none;
    	border-bottom-width: 2px;
-    	border-color: #39bb9d;    
+    	border-color: #febb02;    
     	border-bottom-style: inset;  	
 }
 
