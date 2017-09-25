@@ -24,8 +24,8 @@ body, input, select, textarea, button, .ui-content, .ui-page-theme-a{
 
 /*color and square more info button*/
 .rbn-more-info-button.ui-btn.ui-icon-arrow-r.ui-btn-icon-left.ui-btn-inline.ui-shadow.ui-corner-all {
-	background-color: #002e52!important;
-	color: #febb02;
+	background-color: #febb02!important;
+	color: #002e52;
 	text-shadow: none; 
 	border: none;
 	border-radius: 0px;   	
@@ -49,13 +49,6 @@ body, input, select, textarea, button, .ui-content, .ui-page-theme-a{
    	border-bottom-width: 2px;
     	border-color: #002e52;    
     	border-bottom-style: inset;  	
-}
-
-
-/*bpay green line*/
-#base_page\3a descPanel > div.ui-panel-m-content.ui-body.ui-body-inherit{
-	border-top-width: 2px;
-    	border-top-color: #39bb9d;
 }
 
 /*expanadble areas on bpay and yourbooking*/
