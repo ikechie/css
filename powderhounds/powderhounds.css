@@ -24,8 +24,8 @@ body, input, select, textarea, button, .ui-content, .ui-page-theme-a{
 
 /*color and square more info button*/
 .rbn-more-info-button.ui-btn.ui-icon-arrow-r.ui-btn-icon-left.ui-btn-inline.ui-shadow.ui-corner-all {
-	background-color: #39bb9d!important;
-	color: white;
+	background-color: Yellow!important;
+	color: Blue;
 	text-shadow: none; 
 	border: none;
 	border-radius: 0px;   	
