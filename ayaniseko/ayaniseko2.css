@@ -4,6 +4,11 @@ background:#d5b476;
 text-shadow:none;
 }
 
+/* Hide img */
+#base_page\:j_idt25 {
+	display: none;
+}
+
 .ui-header.ui-bar-inherit{
 background:#1E252B url('https://www.ayaniseko.com/assets/img/logo.png') no-repeat center;
 background-size:220px;
